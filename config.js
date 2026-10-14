@@ -72,7 +72,7 @@ const config = {
     OWNER_NAME: '𝐙𝐀𝐈𝐍𝐔-🐍🪽',
     OWNER_NUMBER: '923128520558',
     DEV: '923128520558',
-    BOT_IMAGE: 'https://https://i.ibb.co/C3kn3BmL/ERFAN-MD.jpg,
+    BOT_IMAGE: 'https://i.ibb.co/C3kn3BmL/ERFAN-MD.jpg',
     NEWSLETTER_JID: '120363430842443087@newsletter',
     NEWSLETTER_NAME: '𝐙𝐀𝐈𝐍𝐔-𝐌𝐃',
 
@@ -122,7 +122,7 @@ const config = {
         OWNER_NUMBER: '923128520558',
         DEV: '923128520558',
         DESCRIPTION: '*© POWERED BY *𝐙𝛂͢ī֟፝ƞ፝͡ʊ ϻ֟፝𝛛 🐍🪽**',
-        STICKER_NAME: '*𝐙𝛂͢ī֟፝ƞ፝͡ʊ ϻ֟፝𝛛 🐍🪽*',
+        STICKER_NAME: '*𝐙𝛂͢ī֟፝ƞ፝͡ʊ ϻ֟፝ꝺ 🐍🪽*',
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: 'A*𝐙𝛂͢ī֟፝ƞ፝͡ʊ ϻ֟፝𝛛 🐍🪽*',
